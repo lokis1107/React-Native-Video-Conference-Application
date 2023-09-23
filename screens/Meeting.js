@@ -13,9 +13,9 @@ const Meeting = () => {
   return (
     <View className="flex-1">
       <ZegoUIKIT
-        appID={713535055}
+        appID={##########}
         appSign={
-          'f2f864589ca273828963d3f7df1f64d30a5fedc97168813a42e6f7cf5d3edcc2'
+          'Your id'
         }
         userID={userId}
         userName={userName}
